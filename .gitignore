@@ -1,0 +1,6 @@
+venv
+.idea
+__pycache__
+_pycache_
+testMain.py
+variables.txt
